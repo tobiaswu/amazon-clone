@@ -21,7 +21,7 @@ function Home() {
         />
         <Product
           id="234534"
-          title="JBL Flip Essential Bluetooth Box in Grau – Wasserdichter, portabler Lautsprecher mit herausragendem Sound – Bis zu 10 Stunden kabellos Musik abspielen"
+          title="Neues Apple MacBook Pro (16', 16GB RAM, 512GB Speicherplatz, 2,6GHz Intel Core i7) - Silber"
           price={2338.98}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/I/71y%2BlIHVdAL._AC_SL1500_.jpg"
@@ -31,7 +31,7 @@ function Home() {
         <Product
           id="653453"
           title="Echo Plus (2. Gen.), mit Premiumklang und integriertem Smart Home-Hub, Anthrazit Stoff"
-          price={146.2}
+          price={146.29}
           rating={5}
           image="https://images-na.ssl-images-amazon.com/images/I/71WvxHqKqeL._AC_SL1000_.jpg"
         />
