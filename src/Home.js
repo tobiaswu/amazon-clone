@@ -59,6 +59,10 @@ function Home() {
           image="https://images-na.ssl-images-amazon.com/images/I/81yPOU-UkZL._AC_SL1500_.jpg"
         />
       </div>
+      <div style={{ fontSize: "10px" }}>
+        <a href="https://wupperfeld.org/impressum">Impressum</a>
+        <a href="https://wupperfeld.org/datenschutz">Datenschutz</a>
+      </div>
     </div>
   );
 }
